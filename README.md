@@ -29,9 +29,9 @@ The dataset contains **11 columns**, including:
 - Performance Rating  
 - Work Mode (Remote / On-site)  
 - Status (Active, Resigned, Retired, Terminated)
-
-Total Records: **2,000,000**
-
+- 
+DATASET
+https://drive.google.com/drive/folders/1nuplJGha2kQlJDu7NPvBO5zN_8zotroH?usp=drive_link
 ---
 
 ## ⭐ Key Analysis Performed
